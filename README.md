@@ -9,3 +9,7 @@ It is just a demo file
 ## Subheader
 
 It is just demo of how to use GitHub
+
+## Local development
+
+1.Open index.html in your browser
